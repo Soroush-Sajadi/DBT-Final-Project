@@ -8,6 +8,8 @@ Robin Ribaric
 Sebastian Troedsson
 Soroush Sajadi
 
+![](screenshots/Screenshot%202020-04-1520%at20%11.43.22.jpg)
+
 You can watch our video for a full demo of all the fetures in this project in the link below. </br>
 https://youtu.be/c86mrntLwDQ
 
