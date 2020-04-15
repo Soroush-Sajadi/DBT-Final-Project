@@ -1,8 +1,21 @@
-# DBT-Final-Project
+DBT - an analytical tool for DBT that handles coorperate loans
+This MVP was built during 10 days of the Winter20 Stockholm School of Applied Technology boot camp.
 
-This is a project that renders data from postgresSQL database as charts.
-Node.js, Express, PostgresSQL, React.js, chart.js, and etc are the techniques that are been used in this project.
-For the securities reason the database and queries is been removed from repository.
-However the final project is available in the link below.
+This was my final graduation project at </salt> together with our client DBT and my team:
 
-https://www.youtube.com/watch?v=c86mrntLwDQ&feature=youtu.be
+Moe Terani
+Robin Ribaric
+Sebastian Troedsson
+Soroush Sajadi
+
+You can watch our video for a full demo of all the fetures in this project. Open the video in a new tab.
+
+And you can watch our whole presentation video for a full presentation of this project. Open the video in a new tab.
+
+Tech stack
+React (Functional components, Hooks)
+Chartjs
+Nodejs
+Express
+Postgresql
+AWS
