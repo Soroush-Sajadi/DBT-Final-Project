@@ -8,7 +8,8 @@ Robin Ribaric
 Sebastian Troedsson
 Soroush Sajadi
 
-You can watch our video for a full demo of all the fetures in this project. Open the video in a new tab.
+You can watch our video for a full demo of all the fetures in this project in the link below.
+https://youtu.be/c86mrntLwDQ
 
 And you can watch our whole presentation video for a full presentation of this project. Open the video in a new tab.
 
