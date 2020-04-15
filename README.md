@@ -8,10 +8,10 @@ Robin Ribaric
 Sebastian Troedsson
 Soroush Sajadi
 
-You can watch our video for a full demo of all the fetures in this project in the link below.
+You can watch our video for a full demo of all the fetures in this project in this link.
 https://youtu.be/c86mrntLwDQ
 
-And you can watch our whole presentation video for a full presentation of this project. Open the video in a new tab.
+And you can watch our whole presentation video for a full presentation of this project in this link https://www.youtube.com/watch?v=qLVFzotzUBk&feature=youtu.be.
 
 Tech stack
 React (Functional components, Hooks)
