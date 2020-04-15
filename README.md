@@ -8,15 +8,15 @@ Robin Ribaric
 Sebastian Troedsson
 Soroush Sajadi
 
-You can watch our video for a full demo of all the fetures in this project in this link.
+You can watch our video for a full demo of all the fetures in this project in the link below. </br>
 https://youtu.be/c86mrntLwDQ
 
-And you can watch our whole presentation video for a full presentation of this project in this link https://www.youtube.com/watch?v=qLVFzotzUBk&feature=youtu.be.
+And you can watch our whole presentation video for a full presentation of this project in the link below </br> https://www.youtube.com/watch?v=qLVFzotzUBk&feature=youtu.be.
 
-Tech stack
-React (Functional components, Hooks)
-Chartjs
-Nodejs
-Express
-Postgresql
+Tech stack</br>
+React (Functional components, Hooks) </br>
+Chartjs </br>
+Nodejs </br>
+Express </br>
+Postgresql </br>
 AWS
